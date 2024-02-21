@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"f8692f5508d26482dbb7b16c748b20bc","name":"MacOS Tests: Create Pin and Account Tests","statistic":{"failed":0,"broken":2,"skipped":2,"passed":6,"unknown":0,"total":10}},{"uid":"8f874764ce2882f7b39b0075b55410a2","name":"Create Accounts and Chat Tests","statistic":{"failed":0,"broken":1,"skipped":0,"passed":1,"unknown":0,"total":2}}]}
