@@ -1,1 +1,0 @@
-Downloaded file saved at: /__w/UplinkWeb/UplinkWeb/automated-tests/playwright/PageObjects/downloads/Uplink_v2.0.6.msi
